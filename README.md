@@ -1,3 +1,30 @@
+# Navbar Responsive
+
+Code to create navbar responsive with React Router and Bootstrap.
+
+## COMMANDS 
+* npm install react-bootstrap bootstrap@5.1.3
+* npm install react-router-dom@6
+* npm run start
+
+## STACK TECH :wrench: :hammer:
+
+* React
+* React Router 6
+* Bootstrap 5
+
+## SCREENSHOT
+
+![](src/assets/screenshot1.jpg)
+
+![](src/assets/screenshot2.jpg)
+
+![](src/assets/screenshot3.jpg)
+
+![](src/assets/screenshot4.jpg)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
